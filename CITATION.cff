@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Thanks for citing this repository:"
+title: "Visualizing 3D ResNet for Medical Image Classification With Score-CAM"
+authors:
+  - family-names: Al-Fahsi
+    given-names: Resha Dwika Hefni
+url: https://github.com/reshalfahsi/3d-viz-score-cam
