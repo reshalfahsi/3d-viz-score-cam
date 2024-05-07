@@ -93,6 +93,8 @@ To cite this repository:
 - [Learning Spatio-Temporal Features with 3D Residual Networks for Action Recognition](https://arxiv.org/pdf/1708.07632)
 - [Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w1/Wang_Score-CAM_Score-Weighted_Visual_Explanations_for_Convolutional_Neural_Networks_CVPRW_2020_paper.pdf)
 - [RISE: Randomized Input Sampling for Explanation of Black-box Models](https://arxiv.org/pdf/1806.07421)
+- [RISE official code](https://github.com/eclique/RISE)
+- [K3D Jupyter](https://github.com/K3D-tools/K3D-jupyter)
 - [Interpretable Explanations of Black Boxes by Meaningful Perturbation](https://arxiv.org/pdf/1704.03296)
 - [Score-CAM official code](https://github.com/haofanwang/Score-CAM)
 - [MedMNIST v2-A large-scale lightweight benchmark for 2D and 3D biomedical image classification](https://arxiv.org/pdf/2110.14795)
